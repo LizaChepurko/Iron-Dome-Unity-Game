@@ -1,6 +1,6 @@
 # Iron Dome Shooting Unity Game
 ## Introduction
-Tensions have reached a boiling point as Iran has launched another aggressive assault. As forces gather and the skies darken with the threat of incoming ballistic missiles, 
+Tensions have reached a boiling point as Iran has launched another aggressive attack. As forces gather and the skies darken with the threat of incoming ballistic missiles, 
 you stand as the last line of defense. It is your mission to shield your nation from impending destruction. With the weight of a million lives on your shoulders, 
 you must intercept enemy attacks and ensure the safety of the cities you hold dear. 
 The future of your homeland rests in your hands. 
@@ -13,7 +13,7 @@ Your task is to accurately target and destroy incoming missiles and unmanned aer
 - Power-Ups: 
 
     - Health Packs: Collect these to repair damage and sustain the Iron Dome's defenses.
-    - Hetz Missiles: These missiles offer increased damage and speed, providing a critical advantage in defense.
+    - Hetz Missiles: These missiles offer increased damage and speed, providing advantage in defense.
     - Use the power ups by clicking on the icon that appears in the inventory slots.
 
 - Objective: Your primary goal is to intercept all enemy missiles before they reach the right end of the screen.
